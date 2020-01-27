@@ -29,6 +29,6 @@ Developed using following technology stack/libraries.
 
 
 
-[![Tehseen on Twitter](https://img.shields.io/twitter/follow/thetehseen.svg?style=social&label=Follow%20@TheTehseen)](https://twitter.com/thetehseen/)
+[![Twitter](https://img.shields.io/twitter/follow/thetehseen.svg?style=social&label=Follow)](https://twitter.com/thetehseen/)
 ![GitHub followers](https://img.shields.io/github/followers/mrtehseen?label=GitHub&style=social)
 
