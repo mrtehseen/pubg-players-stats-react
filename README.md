@@ -1,7 +1,7 @@
 # PUBG PC Player Lifetime Stats 📃
 
 <p align="center">
-  <img src="#">
+  <img src="https://raw.githubusercontent.com/mrtehseen/pubg-players-stats-react/master/public/PUBGapiWithReact.png?token=AEPBO6EZ47CSCHO2V3HBB2S6F4F76">
 </p>
 
 A simplified tool to lookup your PUBG stats of lifetime just by entering your in-game player username (i.e Lucky-TV_et) and the tool will lookup your name in the PUBG PC Steam database managed by PUBG Developer API and search for most relevant players stats of all time of player's gameplay. 🎮
